@@ -1,0 +1,11 @@
+[{
+        "username": "admin",
+        "password": "admin",
+        "type": "premium"
+    },
+    {
+        "username": "freeuser",
+        "password": "freeuser",
+        "type": "free"
+    }
+]
