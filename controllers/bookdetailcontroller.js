@@ -1,7 +1,6 @@
 const bookdetail = mongoose.model("bookdetail");
 const { validationResult } = require('express-validator');
 const fs = require('fs');
-const { type } = require('os');
 module.exports = {
     add(req, res) {
 
